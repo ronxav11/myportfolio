@@ -1,2 +1,2 @@
-# Ignore all files with the .log extension
-*.DS_Store
+# Ignore all files with the .DS_Store extension
+add '**/.DS_Store
